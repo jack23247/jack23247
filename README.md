@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jack23247/jack23247/main/stop_doing_x86.png" style="zoom: 33%;" />
+![Self-proclaimed chairman of the non-x86 committee](https://raw.githubusercontent.com/jack23247/jack23247/main/stop_doing_x86_67.png)
 
 <!--
 **jack23247/jack23247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
